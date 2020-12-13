@@ -9,3 +9,9 @@ To generate other (smaller) sizes:
 ```
 $ ./convert.sh origin-1.png
 ```
+
+## Showcase
+<img src="https://cdn.jsdelivr.net/gh/approach0/a0-logo@master/origin-1.png" width="128" align="left">
+<img src="https://cdn.jsdelivr.net/gh/approach0/a0-logo@master/origin-2.png" width="128" align="left">
+<img src="https://cdn.jsdelivr.net/gh/approach0/a0-logo@master/origin-3.png" width="128" align="left">
+<img src="https://cdn.jsdelivr.net/gh/approach0/a0-logo@master/origin-4.png" width="128" align="left">
